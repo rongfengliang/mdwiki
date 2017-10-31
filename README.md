@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/Dynalon/mdwiki.png?branch=master)](https://travis-ci.org/Dynalon/mdwiki)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frongfengliang%2Fmdwiki.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frongfengliang%2Fmdwiki?ref=badge_shield)
 
 
 MDwiki
@@ -40,3 +41,7 @@ To get unminified source code compiled to `dist/mdwiki-debug.html`, as well as a
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Dynalon/mdwiki/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frongfengliang%2Fmdwiki.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frongfengliang%2Fmdwiki?ref=badge_large)
